@@ -16,6 +16,7 @@ public class Clone {
             System.out.println("a>b");
         }
         System.out.println("end if");
+        System.out.println("to lazy.");
     }
 
 }
